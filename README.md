@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Wajeeh Ur Rehman</h1>
+<h3 align="center">Aspiring Full Stack Engineer • Backend & Data Systems • Lahore, Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+%26+API+Developer;Data+Engineering+%26+Automation;Python+%7C+FastAPI+%7C+.NET" alt="Typing SVG" />
@@ -8,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **BS Software Engineering** student at the **University of Management and Technology, Lahore**
 - 💻 I build **scalable backend systems**, **data-driven applications**, and **automated pipelines**
 - ⚙️ Focused on **RESTful API design**, **database modeling**, and **cloud deployments**
 - 🐍 **Python** is my strongest language — I also work across **FastAPI**, **.NET**, and **React**
@@ -90,19 +90,6 @@
 | **🚦 Traffic Optimization System** *(FYP)* | Intelligent traffic management that analyzes vehicle flow and optimizes real-time signal timing | Python, Computer Vision, Deep Learning, RL |
 | **🛒 POS & Enterprise Management System** | Backend business logic + REST APIs for enterprise operations, validated with xUnit test suites | C#, .NET, SQL Server, REST, xUnit |
 | **🔐 Role-Based Access Management & Security** | Secure backend with modular RBAC, JWT auth, and normalized schemas, containerized with Docker | Python, Django, PostgreSQL, JWT, Docker |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
